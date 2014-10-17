@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sim:home|Door43 (sim)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sim|d43-sim repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sim/archive/master.zip|d43-sim.zip]]
+
+**Recent Changes**
+{{changes>ns = sim}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sim|Ethnologue data]]
+
